@@ -131,7 +131,7 @@ return {
       clangd = {
         cmd = { 'clangd', '--header-insertion=never' },
       },
-      omnisharp = {},
+      roslyn = {},
       codelldb = {},
       -- gopls = {},
       -- pyright = {},
