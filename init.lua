@@ -166,6 +166,7 @@ require('lazy').setup({
   require 'kickstart.plugins.nvim-dap-lldb',
   require 'kickstart.plugins.grug-far',
   require 'kickstart.plugins.roslyn',
+  require 'kickstart.plugins.cmake-tools',
 
   -- NOTE: The import below can automatically add your own plugins, configuration, etc from `lua/custom/plugins/*.lua`
   --    This is the easiest way to modularize your config.
